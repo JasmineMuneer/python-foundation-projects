@@ -36,3 +36,7 @@ Sometimes,
 > Help me out by contribuing further enhancements or whatever you can to make this project even better. All are welcome!
 
 *Let's code together!* 
+
+###### License:
+
+This project is licensed under the MIT License- see the [LICENSE](https://github.com/JasmineMuneer/python-foundation-projects/blob/main/LICENSE) file for further details
