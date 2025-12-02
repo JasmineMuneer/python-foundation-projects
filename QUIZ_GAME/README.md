@@ -32,6 +32,10 @@ Sometimes,
    - endpoint not found
    - user not found, etc.
 
+### Preview:
+
+https://github.com/user-attachments/assets/fe33b9a9-284f-4c3b-92c5-9a82907f8656
+
 ---
 > Help me out by contribuing further enhancements or whatever you can to make this project even better. All are welcome!
 
@@ -40,3 +44,4 @@ Sometimes,
 ###### License:
 
 This project is licensed under the MIT License- see the [LICENSE](https://github.com/JasmineMuneer/python-foundation-projects/blob/main/LICENSE) file for further details
+
