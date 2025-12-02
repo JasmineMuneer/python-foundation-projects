@@ -14,7 +14,7 @@ def generate_questions(num, topic, diff_level = "medium"):
 
     try:
         response = client.chat.completions.create(
-        model="deepseek/deepseek-r1:free",
+        model="x-ai/grok-4.1-fast:free",
         messages=[
             {"role" : "system",
             "content" : "You are a well-known Quiz Generator in the world"},
