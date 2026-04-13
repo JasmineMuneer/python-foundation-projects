@@ -15,7 +15,7 @@ A very simple shopping cart where you can:
 - try-except blocks
 
 ### Preview:
-
+https://github.com/user-attachments/assets/98424462-d85c-4dfd-984d-11a510a06a69
 
 ---
 
